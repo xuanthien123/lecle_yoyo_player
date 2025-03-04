@@ -81,7 +81,7 @@
     },
     {
       "name": "flutter_screen_wake",
-      "rootUri": "file:///C:/Users/Acer/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_screen_wake-1.0.2",
+      "rootUri": "file:///C:/Users/Acer/AppData/Local/Pub/Cache/git/flutter_screen_wake-cd2e41db2160c82e002e58cc2ad362051d7cec30/",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -368,7 +368,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2025-03-04T01:54:02.597748Z",
+  "generated": "2025-03-04T03:10:38.969532Z",
   "generator": "pub",
   "generatorVersion": "3.7.0",
   "flutterRoot": "file:///C:/dev/flutter",

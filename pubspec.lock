@@ -105,10 +105,11 @@ packages:
   flutter_screen_wake:
     dependency: "direct main"
     description:
-      name: flutter_screen_wake
-      sha256: "7c69295d1405a5e7b673f5fe938d116076a4e8620cacdf04e884242622296f65"
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: cd2e41db2160c82e002e58cc2ad362051d7cec30
+      url: "https://github.com/xuanthien123/flutter_screen_wake.git"
+    source: git
     version: "1.0.2"
   flutter_test:
     dependency: "direct dev"
